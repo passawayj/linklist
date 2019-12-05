@@ -36,4 +36,4 @@ NODE* node1 = createNode(a);
 node1->link = node2;
 ```
 #### 위의 문장으로 연결작업을 시작하는 것이다. main에 node가 node1 가르키고
-createNode에 nodePtr이 node1 가르
+#### createNode에 nodePtr이 node1 가
