@@ -1,5 +1,6 @@
 # 링크리스트 구조  
-<img scr = "https://user-images.githubusercontent.com/58559928/70270776-71f5b100-17e8-11ea-9d0a-9fc809320c5a.png">
+#### <아래 링크의 이미지 참조>
+https://user-images.githubusercontent.com/58559928/70270776-71f5b100-17e8-11ea-9d0a-9fc809320c5a.png
 
 #### 노드들이 모인 것이 리스트이다. 효율적으로 특정 노드를 찾기위한 구조 중 하나이다. 링크리스트의 노드들은 각각의 노드가 다음의 노드를 알고 있기 때문에 이러한
 리스트 구조를 이루고 있는 것이다. 
